@@ -1,0 +1,19 @@
+{
+  "name": "api-etec",
+  "version": "1.0.0",
+  "description": "Uma API básica feita com Node.js e Express. Trabalho para a disciplina de Programação Mobile da ETEC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoSouza123/api-etec.git"
+  },
+  "author": "Gustavo Souza, Igor Boaventura, Júlia Benedetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoSouza123/api-etec/issues"
+  },
+  "homepage": "https://github.com/GustavoSouza123/api-etec#readme"
+}
